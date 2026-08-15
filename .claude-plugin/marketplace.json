@@ -1,0 +1,19 @@
+{
+  "name": "nn-swift-skills",
+  "description": "API reference skills for Nikolai Nobadi's public Swift packages. Each skill lives in the package repo it documents, so the API and its docs change together.",
+  "owner": {
+    "name": "Nikolai Nobadi",
+    "email": "nikolai.nobadi@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "SwiftPickerKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/SwiftPickerKit.git",
+        "path": "Skills/SwiftPickerKit"
+      },
+      "description": "SwiftPickerKit Swift API reference for terminal-based interactive pickers with single/multi-selection, two-column layouts, tree navigation, and file system browsing."
+    }
+  ]
+}
