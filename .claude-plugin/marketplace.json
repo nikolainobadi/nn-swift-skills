@@ -35,6 +35,16 @@
         "ref": "2.2.1"
       },
       "description": "Swift testing plugin — NnTestKit API reference and unit test workflow engine for iOS/macOS projects."
+    },
+    {
+      "name": "NnShellKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnShellKit.git",
+        "path": "Skills/NnShellKit",
+        "ref": "2.2.1"
+      },
+      "description": "NnShellKit Swift API reference for shell command execution from Swift with protocol-based design, timeout support, and MockShell testing utilities."
     }
   ]
 }
