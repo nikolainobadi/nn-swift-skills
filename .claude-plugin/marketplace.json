@@ -11,7 +11,8 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/SwiftPickerKit.git",
-        "path": "Skills/SwiftPickerKit"
+        "path": "Skills/SwiftPickerKit",
+        "ref": "0.10.0"
       },
       "description": "SwiftPickerKit Swift API reference for terminal-based interactive pickers with single/multi-selection, two-column layouts, tree navigation, and file system browsing."
     }
