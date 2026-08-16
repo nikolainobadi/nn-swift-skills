@@ -55,6 +55,16 @@
         "ref": "0.7.0"
       },
       "description": "NnFileKit Swift API reference for file system access from Swift with protocol-based FileSystem/Directory design, a FileManager-backed DefaultFileSystem, and MockFileSystem/MockDirectory testing utilities."
+    },
+    {
+      "name": "NnSwiftUIKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnSwiftUIKit.git",
+        "path": "Skills/NnSwiftUIKit",
+        "ref": "4.2.2"
+      },
+      "description": "NnSwiftUIKit Swift API reference — reusable SwiftUI components, error handling, font system, and view modifiers for iOS/macOS/watchOS."
     }
   ]
 }
