@@ -45,6 +45,16 @@
         "ref": "2.2.1"
       },
       "description": "NnShellKit Swift API reference for shell command execution from Swift with protocol-based design, timeout support, and MockShell testing utilities."
+    },
+    {
+      "name": "NnFileKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnFileKit.git",
+        "path": "Skills/NnFileKit",
+        "ref": "0.7.0"
+      },
+      "description": "NnFileKit Swift API reference for file system access from Swift with protocol-based FileSystem/Directory design, a FileManager-backed DefaultFileSystem, and MockFileSystem/MockDirectory testing utilities."
     }
   ]
 }
