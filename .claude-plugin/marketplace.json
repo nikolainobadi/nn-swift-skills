@@ -15,6 +15,16 @@
         "ref": "0.10.0"
       },
       "description": "SwiftPickerKit Swift API reference for terminal-based interactive pickers with single/multi-selection, two-column layouts, tree navigation, and file system browsing."
+    },
+    {
+      "name": "NnArgumentParser",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnArgumentParser.git",
+        "path": "Skills/NnArgumentParser",
+        "ref": "0.1.0"
+      },
+      "description": "NnArgumentParser Swift API reference for building testable command-line tools on top of Apple's ArgumentParser — the NnRootCommand protocol with a contextFactory dependency-injection seam, InteractionMode for suppressing prompts in automated contexts, and the testRun helper for driving commands end-to-end in tests."
     }
   ]
 }
