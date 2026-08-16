@@ -25,6 +25,16 @@
         "ref": "0.1.0"
       },
       "description": "NnArgumentParser Swift API reference for building testable command-line tools on top of Apple's ArgumentParser — the NnRootCommand protocol with a contextFactory dependency-injection seam, InteractionMode for suppressing prompts in automated contexts, and the testRun helper for driving commands end-to-end in tests."
+    },
+    {
+      "name": "NnTesting",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnTestKit.git",
+        "path": "Skills/NnTesting",
+        "ref": "2.2.1"
+      },
+      "description": "Swift testing plugin — NnTestKit API reference and unit test workflow engine for iOS/macOS projects."
     }
   ]
 }
