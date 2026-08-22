@@ -57,6 +57,16 @@
       "description": "NnFileKit Swift API reference for file system access from Swift with protocol-based FileSystem/Directory design, a FileManager-backed DefaultFileSystem, and MockFileSystem/MockDirectory testing utilities."
     },
     {
+      "name": "NnReminderKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnReminderKit.git",
+        "path": "Skills/NnReminderKit",
+        "ref": "1.5.1"
+      },
+      "description": "NnReminderKit Swift API reference for local notification scheduling and management on Apple platforms."
+    },
+    {
       "name": "NnSwiftUIKit",
       "source": {
         "source": "git-subdir",
