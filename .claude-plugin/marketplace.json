@@ -65,6 +65,16 @@
         "ref": "4.2.2"
       },
       "description": "NnSwiftUIKit Swift API reference — reusable SwiftUI components, error handling, font system, and view modifiers for iOS/macOS/watchOS."
+    },
+    {
+      "name": "NnVersionKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnVersionKit.git",
+        "path": "Skills/NnVersionKit",
+        "ref": "2.0.1"
+      },
+      "description": "NnVersionKit Swift API reference for app version checking and update prompts. USE WHEN checking app version, forced update UI, checkingAppVersion view modifier, VersionUpdatePolicy, forcing updates by version range, update available status, VersionUpdateStatus, onStatus callback, UI test version seeding, StaticVersionLoader, VersionLoader, AppStoreVersionLoader, DeviceBundleVersionLoader, VersionNumber comparison, App Store version lookup, VersionKitError."
     }
   ]
 }
