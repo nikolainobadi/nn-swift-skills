@@ -85,6 +85,16 @@
         "ref": "2.0.1"
       },
       "description": "NnVersionKit Swift API reference for app version checking and update prompts. USE WHEN checking app version, forced update UI, checkingAppVersion view modifier, VersionUpdatePolicy, forcing updates by version range, update available status, VersionUpdateStatus, onStatus callback, UI test version seeding, StaticVersionLoader, VersionLoader, AppStoreVersionLoader, DeviceBundleVersionLoader, VersionNumber comparison, App Store version lookup, VersionKitError."
+    },
+    {
+      "name": "ConsoleProgressKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/ConsoleProgressKit.git",
+        "path": "Skills/ConsoleProgressKit",
+        "ref": "0.5.0"
+      },
+      "description": "ConsoleProgressKit Swift API reference for showing progress in command-line tools — live spinners, progress bars, and plain log lines on stderr. USE WHEN using ConsoleProgressKit, ProgressDisplay, LiveProgressDisplay, PlainProgressDisplay, ActivityHandle, track(_:operation:), NoteStyle, TerminalCapabilities, OR adding spinners, progress bars, or progress output to a Swift CLI."
     }
   ]
 }
