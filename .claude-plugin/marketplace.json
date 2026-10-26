@@ -95,6 +95,18 @@
         "ref": "0.6.0"
       },
       "description": "ConsoleProgressKit Swift API reference for showing progress in command-line tools — live spinners, progress bars, and plain log lines on stderr. USE WHEN using ConsoleProgressKit, ProgressDisplay, LiveProgressDisplay, PlainProgressDisplay, ActivityHandle, track(_:operation:), NoteStyle, TerminalCapabilities, OR adding spinners, progress bars, or progress output to a Swift CLI."
+    },
+    {
+      "name": "nn-cli-architecture",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/nnscaffold-releases.git",
+        "path": "Skills/nn-cli-architecture"
+      },
+      "description": "Architecture reference for Swift command-line tools built on NnArgumentParser: root command and factory, the NnWorkflow inspect/collect/resolve pipeline, folder layout, file style, and workflows for a new CLI, for adding a command, and for reviewing an existing tool.",
+      "dependencies": [
+        "NnArgumentParser@nn-swift-skills"
+      ]
     }
   ]
 }
