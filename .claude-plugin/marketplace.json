@@ -108,6 +108,16 @@
       "dependencies": [
         "NnArgumentParser@nn-swift-skills"
       ]
+    },
+    {
+      "name": "MCPServerKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/MCPServerKit.git",
+        "path": "Skills/MCPServerKit",
+        "ref": "0.1.0"
+      },
+      "description": "MCPServerKit Swift API reference and capability generator for building MCP servers. USE WHEN using MCPServerKit, LocalMCPServer, MCP server implementations, MCP tools, MCP resources, MCP prompts, reviewing existing MCP server code, OR adding new MCP tools, read capabilities, write capabilities, resource-backed capabilities to a Swift MCP server."
     }
   ]
 }
