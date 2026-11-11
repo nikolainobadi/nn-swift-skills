@@ -102,7 +102,7 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/nnscaffold-releases.git",
         "path": "Skills/nn-cli-architecture",
-        "ref": "0.12.1"
+        "ref": "0.13.0"
       },
       "description": "Architecture reference for Swift command-line tools built on NnArgumentParser: root command and factory, the NnWorkflow inspect/collect/resolve pipeline, folder layout, file style, and workflows for a new CLI, for adding a command, for reviewing an existing tool, and for catching a tool up after architecture changes.",
       "dependencies": [
@@ -125,7 +125,7 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/nnscaffold-releases.git",
         "path": "Skills/nn-architecture",
-        "ref": "0.12.1"
+        "ref": "0.13.0"
       },
       "description": "Universal architecture principles shared by the nn architecture skills: how types are classified and named, independent of any kind of project."
     },
@@ -135,7 +135,7 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/nnscaffold-releases.git",
         "path": "Skills/nn-mcp-architecture",
-        "ref": "0.12.1"
+        "ref": "0.13.0"
       },
       "description": "Architecture reference for Swift MCP servers built on MCPServerKit: the entry point and startup rules, the feature and capability layout, the protocol and backend behind each tool handler, tool error translation, per-tool annotations, and workflows for creating a server and adding capabilities."
     },
