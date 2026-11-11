@@ -138,6 +138,16 @@
         "ref": "0.12.1"
       },
       "description": "Architecture reference for Swift MCP servers built on MCPServerKit: the entry point and startup rules, the feature and capability layout, the protocol and backend behind each tool handler, tool error translation, per-tool annotations, and workflows for creating a server and adding capabilities."
+    },
+    {
+      "name": "NnCredentialKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnCredentialKit.git",
+        "path": "Skills/NnCredentialKit",
+        "ref": "3.3.1"
+      },
+      "description": "NnCredentialKit Swift API reference for iOS authentication workflows with Firebase integration"
     }
   ]
 }
