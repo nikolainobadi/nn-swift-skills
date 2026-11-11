@@ -82,7 +82,7 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/NnVersionKit.git",
         "path": "Skills/NnVersionKit",
-        "ref": "2.0.1"
+        "ref": "2.0.2"
       },
       "description": "NnVersionKit Swift API reference for app version checking and update prompts. USE WHEN checking app version, forced update UI, checkingAppVersion view modifier, VersionUpdatePolicy, forcing updates by version range, update available status, VersionUpdateStatus, onStatus callback, UI test version seeding, StaticVersionLoader, VersionLoader, AppStoreVersionLoader, DeviceBundleVersionLoader, VersionNumber comparison, App Store version lookup, VersionKitError."
     },
