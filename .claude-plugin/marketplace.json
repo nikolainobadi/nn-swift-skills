@@ -72,7 +72,7 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/NnSwiftUIKit.git",
         "path": "Skills/NnSwiftUIKit",
-        "ref": "4.2.2"
+        "ref": "4.2.3"
       },
       "description": "NnSwiftUIKit Swift API reference — reusable SwiftUI components, error handling, font system, and view modifiers for iOS/macOS/watchOS."
     },
