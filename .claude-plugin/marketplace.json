@@ -148,6 +148,16 @@
         "ref": "3.3.1"
       },
       "description": "NnCredentialKit Swift API reference for iOS authentication workflows with Firebase integration"
+    },
+    {
+      "name": "NnGoogleAdsKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnGoogleAdsKit.git",
+        "path": "Skills/NnGoogleAdsKit",
+        "ref": "0.9.1"
+      },
+      "description": "NnGoogleAdsKit Swift API reference for Google App Open Ads integration in SwiftUI."
     }
   ]
 }
