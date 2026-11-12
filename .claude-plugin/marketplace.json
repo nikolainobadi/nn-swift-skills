@@ -158,6 +158,16 @@
         "ref": "0.9.1"
       },
       "description": "NnGoogleAdsKit Swift API reference for Google App Open Ads integration in SwiftUI."
+    },
+    {
+      "name": "NnGitKit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnGitKit.git",
+        "path": "Skills/NnGitKit",
+        "ref": "1.0.0"
+      },
+      "description": "NnGitKit Swift API reference for typed git and gh commands, GitClient and GitHubClient, consumer-supplied command runners, and MockGitCommandRunner / RecordingGitCommandRunner testing utilities."
     }
   ]
 }
