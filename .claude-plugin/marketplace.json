@@ -52,9 +52,9 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/NnFileKit.git",
         "path": "Skills/NnFileKit",
-        "ref": "0.9.2"
+        "ref": "0.10.0"
       },
-      "description": "NnFileKit Swift API reference for file system access from Swift with protocol-based FileSystem/Directory design, a FileManager-backed DefaultFileSystem, and MockFileSystem/MockDirectory testing utilities."
+      "description": "NnFileKit Swift API reference for file system access from Swift — protocol-based FileSystem/Directory design with a FileManager-backed DefaultFileSystem and MockFileSystem/MockDirectory testing utilities."
     },
     {
       "name": "NnReminderKit",
